@@ -1,3 +1,10 @@
+This work was supported by:
+
+- **The Institute of Artificial Intelligence (TeleAI), China Telecom, P. R. China.** Our team: [Water-related Embodied AI Group · 涉水具身智能团队](https://teleloong.github.io/teleai_weai/).
+- **西北工业大学光电与智能研究院（iOPEN）, Xi’an 710072, China.**
+
+---
+
 <div align="center">
 
 # AdaCPF
@@ -90,10 +97,6 @@ Processing measurements include video decoding and encoding. The GIFs are visual
 
 ## 🤝 Acknowledgements
 
-This work was supported by:
-
-- **The Institute of Artificial Intelligence (TeleAI), China Telecom, P. R. China.** Our team: [Water-related Embodied AI Group · 涉水具身智能团队](https://teleloong.github.io/teleai_weai/).
-- **西北工业大学光电与智能研究院（iOPEN）, Xi’an 710072, China.**
 
 <table>
 <tr>
