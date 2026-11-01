@@ -6,7 +6,7 @@ This work was supported by:
 
 <table>
 <tr>
-<td align="center" width="40%"><a href="https://teleloong.github.io/teleai_weai/"><img src="logos/teleai-brand.svg" width="240" alt="TeleAI"></a></td>
+<td align="center" width="40%"><a href="https://teleloong.github.io/teleai_weai/"><img src="logos/teleai-institute.jpg" width="360" alt="中国电信人工智能研究院 TeleAI"></a></td>
 <td align="center" width="60%"><a href="https://iopen.nwpu.edu.cn/"><img src="logos/iopen.png" width="470" alt="西北工业大学光电与智能研究院 iOPEN"></a></td>
 </tr>
 <tr><td align="center">中国电信人工智能研究院（TeleAI）</td><td align="center">西北工业大学光电与智能研究院（iOPEN）</td></tr>
